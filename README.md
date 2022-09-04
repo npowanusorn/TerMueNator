@@ -1,1 +1,1 @@
-Hi, I'm Nucha Powanusorn and I am currently a CS major student at UBC. I enjoy programming and can code in C, C++, Java, Swift, and SwiftUI. 
+Hi! I'm Nucha Powanusorn and I am a BSc student at The University Of British Columbia, majoring in Computer Science. I enjoy programming and working on personal projects during my free time, which can be found in my repository. I can code in C, C++, Java, Swift, and SwiftUI. 
